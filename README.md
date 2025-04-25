@@ -1,9 +1,9 @@
-#🤯 I am Anna Fekete
+# 🤯 I am Anna Fekete
 
-May god bless you with mountains of gold and silver.
-Bing chilling.
-🌉🌉🏔🏔🇨🇳🇨🇳
-老天保佑金山银山前路有
+May god bless you with mountains of gold and silver.\
+Bing chilling.\
+🌉🌉🏔🏔🇨🇳🇨🇳\
+老天保佑金山银山前路有\
 ```lua
 Wassup Beijing 🇨🇳
 ```
