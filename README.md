@@ -1,8 +1,6 @@
-## Hi there 👋
+## I am Anna Fekete
 
-I am just starting out using git.
-This is a test.
-
+I do not know what I am doing. Live, laugh love.
 <!--
 **annfkt/annfkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
