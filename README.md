@@ -1,6 +1,13 @@
-## I am Anna Fekete
+#🤯 I am Anna Fekete
 
-I do not know what I am doing. Live, laugh love.
+May god bless you with mountains of gold and silver.
+Bing chilling.
+🌉🌉🏔🏔🇨🇳🇨🇳
+老天保佑金山银山前路有
+```lua
+Wassup Beijing 🇨🇳
+```
+ 
 <!--
 **annfkt/annfkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
